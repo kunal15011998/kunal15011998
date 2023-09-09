@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/bunnykg1501" target="blank"><img src="https://img.shields.io/twitter/follow/bunnykg1501?logo=twitter&style=for-the-badge" alt="bunnykg1501" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science in Machine Learning**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 💬 Ask me about **SQL,Python,Pandas,Num-Py**
 
